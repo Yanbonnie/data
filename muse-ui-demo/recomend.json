@@ -1,0 +1,43 @@
+[{
+        image: "src/assets/images/recomend/pro_1.jpg",
+        title: '杨氏YANG`S 赣南脐橙 5斤装  铂金果 单果约220-250g 橙子 自营水果',
+        loveNum: '550',
+		price:"15",
+        featured: true
+      }, {
+        image: "src/assets/images/recomend/pro_2.jpg",
+        title: '臻味 坚果礼盒年货礼盒装干果零食大礼包 一起回家吧1780g',
+		price:"198",
+        loveNum: '450'
+      }, {
+        image: "src/assets/images/recomend/pro_3.jpg",
+        title: 'Apple iPhone 7 Plus (A1661) 128G 玫瑰金色 移动联通电信4G手机',
+		price:"6799",
+        loveNum: '350'
+      }, {
+        image: "src/assets/images/recomend/pro_4.jpg",
+        title: '瑞动（SWISSMOBILITY）拉杆箱PC+ABS轻盈大容量旅行箱行李箱24英寸万向轮MT-5555-08T00白色',
+		price:"299",
+        loveNum: '324'
+      }, {
+        image: "src/assets/images/recomend/pro_5.jpg",
+        title: '卡姿兰花漾嫩色胭脂 腮红6g 裸妆修颜提亮肤色 01#小桃红',
+		price:"599",
+        loveNum: '300'
+      }, {
+        image: "src/assets/images/recomend/pro_6.jpg",
+        title: 'VEND 新品休闲手提包女韩版多款可选 抽绳女包水桶包 红蓝拼接色',
+		price:"199",
+        loveNum: '255',
+        featured: true
+      }, {
+        image: "src/assets/images/recomend/pro_7.jpg",
+        title: '妈妈的线 连衣裙长袖2016春秋冬新款韩版连衣裙秋冬 中长款毛衣弹力包臀针织打底连衣裙冬 黑色 均码',
+		price:"99",
+        loveNum: '245'
+      }, {
+        image: "src/assets/images/recomend/pro_8.jpg",
+        title: '葡韵手信 澳门特色 朱古力曲奇90g',
+		price:"89",
+        loveNum: '105'
+      }]
